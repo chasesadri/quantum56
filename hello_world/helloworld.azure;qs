@@ -1,0 +1,4 @@
+import qsharp.azure;
+targets = qsharp.azure.connect(
+    resourceId = "/subscriptions/7a6843fa-b62b-436c-8435-34d7eada3e76/resourceGroups/quantum_era/providers/Microsoft.Quantum/Workspaces/PAB-B056",
+    location = "westus2");
