@@ -9,12 +9,10 @@ ion trap, this is done with precise frequency laser delivered for specified dura
 pulses of particular frequencies.
 
 $$
-{\hat{H}} = \frac{1}{\sqrt{2}}
-
+\hat{H} = \frac{1}{\sqrt{2}}
 \begin{bmatrix}
-1 & 1\\ 
-1 & -1
-\end{bmatrix}
+1 & 1 \\ 
+1 & -1\end{bmatrix}
 $$
 
 Performing matrix multiplication with states initialized to up or down will prove the equal
@@ -22,50 +20,37 @@ distribution.
 
 $$
 \begin{bmatrix}
-1 & 1\\ 
-1 & -1
-\end{bmatrix}
-
+1 & 1 \\
+1 & -1\end{bmatrix}
 \begin{bmatrix}
-1 \\ 
-0
-\end{bmatrix}
-
-=
-
-\frac{\ket{0} + \ket{1}}{\sqrt{2}}
-$$
+1 \\
+0\end{bmatrix}
+=\frac{\ket{0} + \ket{1}}{\sqrt{2}}
 $$
 
+$$
 \begin{bmatrix}
-1 & 1\\ 
-1 & -1
-\end{bmatrix}
-
+1 & 1 \\
+1 & -1\end{bmatrix}
 \begin{bmatrix}
-0 \\ 
-1
-\end{bmatrix}
-
-= 
-
-\frac{\ket{0} - \ket{1}}{\sqrt{2}}
-
+0 \\
+1\end{bmatrix}
+=\frac{\ket{0} - \ket{1}}{\sqrt{2}}
 $$
 
 where
 
 $$
-
-\ket{0} = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
-
+\ket{0}=
+\begin{bmatrix}
+1 \\
+0\end{bmatrix}
 \text{ and }
-
-\ket{1} = \begin{bmatrix} 0 \\ 1 \end{bmatrix}
-
+\ket{1}=
+\begin{bmatrix}
+0 \\
+1\end{bmatrix}
 $$
-
-
 
 Philosophically, the argument could be made that true randomness does not exist in
 nature. However, it is widely agreed upon that these results comprise a more reliable
@@ -73,6 +58,7 @@ standard of randomness when compared to those that are algorithmically generated
 on an assortment of input data.
 
 ## Guide
-The following links provide adequate information to run the experiment from your computer.
-https://learn.microsoft.com/en-us/azure/quantum/user-guide/host-programs?tabs=tabid-csharp
-https://learn.microsoft.com/en-us/azure/quantum/how-to-submit-jobs?pivots=ide-azurecli
+The following links will help you run the experiment from your computer at home.
+
+- https://learn.microsoft.com/en-us/azure/quantum/user-guide/host-programs?tabs=tabid-csharp
+- https://learn.microsoft.com/en-us/azure/quantum/how-to-submit-jobs?pivots=ide-azurecli
