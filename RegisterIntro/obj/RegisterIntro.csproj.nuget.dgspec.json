@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj": {}
+    "c:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj": {
+    "c:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj",
+        "projectUniqueName": "c:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj",
         "projectName": "RegisterIntro",
-        "projectPath": "C:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj",
+        "projectPath": "c:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\RegisterIntro.csproj",
         "packagesPath": "C:\\Users\\Chase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\obj\\",
+        "outputPath": "c:\\Users\\Chase\\Documents\\quantum56\\RegisterIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chase\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,23 +49,9 @@
               "version": "[0.27.238334, )",
               "autoReferenced": true
             },
-            "Microsoft.Quantum.Providers.Core": {
-              "target": "Package",
-              "version": "[0.27.238334, )"
-            },
-            "Microsoft.Quantum.Providers.Rigetti": {
-              "target": "Package",
-              "version": "[0.27.238334, )"
-            },
             "Microsoft.Quantum.QSharp.Core": {
               "target": "Package",
               "version": "[0.27.238334, )"
-            },
-            "Microsoft.Quantum.QirGeneration": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[0.27.238334, )",
-              "autoReferenced": true
             },
             "Microsoft.Quantum.Runtime.Core": {
               "target": "Package",
@@ -80,10 +66,6 @@
               "target": "Package",
               "version": "[0.27.238334, )",
               "autoReferenced": true
-            },
-            "Microsoft.Quantum.Type4.Core": {
-              "target": "Package",
-              "version": "[0.27.238334, )"
             }
           },
           "imports": [
