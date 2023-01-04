@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj": {}
+    "c:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj": {
+    "c:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj",
+        "projectUniqueName": "c:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj",
         "projectName": "BellStates",
-        "projectPath": "C:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj",
+        "projectPath": "c:\\Users\\Chase\\Documents\\quantum56\\BellStates\\BellStates.csproj",
         "packagesPath": "C:\\Users\\Chase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chase\\Documents\\quantum56\\BellStates\\obj\\",
+        "outputPath": "c:\\Users\\Chase\\Documents\\quantum56\\BellStates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chase\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,10 +48,6 @@
               "target": "Package",
               "version": "[0.27.238334, )",
               "autoReferenced": true
-            },
-            "Microsoft.Quantum.Providers.IonQ": {
-              "target": "Package",
-              "version": "[0.27.238334, )"
             },
             "Microsoft.Quantum.QSharp.Core": {
               "target": "Package",
